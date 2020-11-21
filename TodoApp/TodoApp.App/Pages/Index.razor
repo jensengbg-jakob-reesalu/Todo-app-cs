@@ -1,0 +1,23 @@
+﻿@page "/"
+@using TodoApp.App.Components
+
+<section class="todo-container">
+    @if (TodoItems != null)
+    {
+        @foreach (var todoItem in TodoItems)
+        {
+            if (todoItem.IsDone == false)
+            {
+                <div class="todo-item">
+                    <p>@todoItem.Text</p>
+                    <Button class="remove-btn" Clicked="(() => updatePopupRef.ShowModal(todoItem))">...</Button>
+                    <Button class="remove-btn" Clicked="(() => RemoveTodoItem(todoItem.Id))">X</Button>
+                </div>
+            }
+        }
+    }
+</section>
+
+<Popup OnTodoItemAdded="UpdateAndLoad"></Popup>
+<UpdatePopup @ref="updatePopupRef" OnTodoItemUpdated="UpdateAndLoad"></UpdatePopup>
+

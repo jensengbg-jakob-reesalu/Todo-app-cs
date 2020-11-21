@@ -1,0 +1,337 @@
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\TodoApp.App.Views.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\TodoApp.App.Views.pdb
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\TodoApp.App.StaticWebAssets.xml
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\TodoApp.App.exe
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\TodoApp.Api.StaticWebAssets.xml
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\TodoApp.Api.exe
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Blazorise.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Blazorise.Bootstrap.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Blazorise.Icons.FontAwesome.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\TodoApp.App.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\TodoApp.App.pdb
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\obj\Debug\netcoreapp3.1\TodoApp.Api.csprojAssemblyReference.cache
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\obj\Debug\netcoreapp3.1\TodoApp.Api.AssemblyInfoInputs.cache
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\obj\Debug\netcoreapp3.1\TodoApp.Api.AssemblyInfo.cs
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\obj\Debug\netcoreapp3.1\TodoApp.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\obj\Debug\netcoreapp3.1\TodoApp.Api.csproj.CopyComplete
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\obj\Debug\netcoreapp3.1\staticwebassets\TodoApp.Api.StaticWebAssets.Manifest.cache
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\obj\Debug\netcoreapp3.1\staticwebassets\TodoApp.Api.StaticWebAssets.xml
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\TodoApp.Api.deps.json
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\TodoApp.Api.runtimeconfig.json
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\TodoApp.Api.runtimeconfig.dev.json
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\TodoApp.Api.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\TodoApp.Api.pdb
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\obj\Debug\netcoreapp3.1\TodoApp.Api.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\obj\Debug\netcoreapp3.1\TodoApp.Api.pdb
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\obj\Debug\netcoreapp3.1\TodoApp.Api.genruntimeconfig.cache
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jakob Reesalu.ENERADOM\source\repos\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\obj\Debug\netcoreapp3.1\TodoApp.Api.csprojAssemblyReference.cache
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\obj\Debug\netcoreapp3.1\TodoApp.Api.AssemblyInfoInputs.cache
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\obj\Debug\netcoreapp3.1\TodoApp.Api.AssemblyInfo.cs
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\obj\Debug\netcoreapp3.1\TodoApp.Api.csproj.CoreCompileInputs.cache
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\obj\Debug\netcoreapp3.1\TodoApp.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\obj\Debug\netcoreapp3.1\TodoApp.Api.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\obj\Debug\netcoreapp3.1\TodoApp.Api.pdb
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\TodoApp.Api.exe
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\TodoApp.Api.deps.json
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\TodoApp.Api.runtimeconfig.json
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\TodoApp.Api.runtimeconfig.dev.json
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\TodoApp.Api.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\TodoApp.Api.pdb
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\obj\Debug\netcoreapp3.1\TodoApp.Api.RazorTargetAssemblyInfo.cache
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\obj\Debug\netcoreapp3.1\TodoApp.Api.csproj.CopyComplete
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\obj\Debug\netcoreapp3.1\staticwebassets\TodoApp.Api.StaticWebAssets.Manifest.cache
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\obj\Debug\netcoreapp3.1\staticwebassets\TodoApp.Api.StaticWebAssets.xml
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\obj\Debug\netcoreapp3.1\TodoApp.Api.genruntimeconfig.cache
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\TodoApp.Api.StaticWebAssets.xml
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\TodoApp.Common.dll
+D:\Repositories-BitBucket\JR\TodoApp\TodoApp.Api\bin\Debug\netcoreapp3.1\TodoApp.Common.pdb

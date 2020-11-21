@@ -1,0 +1,16 @@
+﻿<Modal @ref="modalRef">
+    <ModalBackdrop />
+    <ModalContent IsCentered="true">
+        <ModalHeader>
+            <CloseButton Clicked="@HideModal" />
+        </ModalHeader>
+        <ModalBody>
+            <Field>
+                <TextEdit @bind-Text="@UpdateTextInput" @bind-Placeholder="@PlaceHolderText" />
+            </Field>
+        </ModalBody>
+        <ModalFooter>
+            <Button Color="Color.Primary" Clicked="@UpdateTodoItem">Done</Button>
+        </ModalFooter>
+    </ModalContent>
+</Modal>
